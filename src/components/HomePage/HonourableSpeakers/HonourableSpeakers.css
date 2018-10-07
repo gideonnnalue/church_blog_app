@@ -1,0 +1,19 @@
+.columns-cus-speak {
+    display: flex;
+    display: -webkit-flex;
+    flex-flow: row wrap;
+}
+
+.honourableSpeakersPage {
+    height: auto;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.hSpeaker-cus {
+    height: auto;
+    width: 210px;
+    margin-bottom: 20px;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}

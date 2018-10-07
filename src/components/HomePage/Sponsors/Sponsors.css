@@ -1,0 +1,38 @@
+.columns-cus-sponsor {
+    display: flex;
+    display: -webkit-flex;
+    flex-flow: row wrap;
+}
+
+.sponsorsPage {
+    height: auto;
+    width: 100%;
+    padding-bottom: 30px;
+    margin: 0 auto;
+
+}
+
+.sponsors-cus {
+    height: auto;
+    width: 210px;
+    margin-bottom: 20px;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.sponsors-header>h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1.1em;
+    letter-spacing: 1px;
+    color: #7100e2;
+    margin: 0 auto;
+    text-align: center !important;
+    align-content: center !important;
+    margin-right: 110px;
+}
+
+.sponsors-header hr {
+    margin-left: 340px;
+}
+

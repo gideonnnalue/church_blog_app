@@ -1,0 +1,72 @@
+.all {
+    margin: 0 !important;
+}
+
+.subscribe-position {
+    height: auto;
+    background-image: url(../../../assets/images/dave.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding: 0 !important;
+    width: 100% !important;
+}
+
+
+.main-img {
+    background: linear-gradient(to right, rgba(127, 0, 255, .9), rgba(266, 9, 255, .9));
+    width: 100% !important;
+    height: 100%;
+    text-align: center;
+    align-content: center;
+}
+
+.subscribe-section-cus {
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+    letter-spacing: 1.3px !important;
+}
+
+
+.cus-subtitle {
+    color: aliceblue;
+    font-size: 1.2em;
+    font-weight: 500;
+    padding-top: 40px;
+    font-weight: 700 !important;
+}
+.subscribe-email-location {
+    padding-bottom: 50px;
+}
+
+.subscribe-email-cus {
+    border-radius: 0 !important;
+    background-color: #8c01fe !important;
+    border: 0 !important;
+    color: white !important;
+}
+
+.subscribe-email-cus input[type="text"] {
+    font-family: monospace;
+    font-size: 20px;
+    color: white !important;
+}
+
+::-webkit-input-placeholder {
+  color: #b1b1b1 !important;
+  font-size: 13px;
+}
+::-moz-placeholder {
+  color: #b1b1b1 !important;
+  font-size: 13px;
+}
+:-ms-input-placeholder {
+  color: #b1b1b1 !important;
+  font-size: 13px;
+}
+::placeholder {
+  color: #b1b1b1 !important;
+  font-size: 13px;
+}

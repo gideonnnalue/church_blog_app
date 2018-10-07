@@ -1,0 +1,24 @@
+.full-cus-card {
+    padding: 15px;
+}
+
+.main-card-content {
+    padding-top: 20px;
+}
+
+.cus-img {
+    margin: 0 auto !important;
+}
+
+.title-cus {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+}
+
+.content-cus {
+    font-size: 0.75em;
+    justify-content: center !important;
+    text-align: center;
+    width: 100%;
+}

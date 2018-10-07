@@ -1,0 +1,17 @@
+.speaker_img_cus {
+    margin: auto auto;
+    padding-left: 10px;
+}
+
+
+.speaker_name {
+    font-weight: 500;
+    color: #7f00ff;
+    font-size: 15px;
+}
+
+.speaker_position {
+    font-weight: 500;
+    font-size: 12px;
+    color: #4e4e4e !important;
+}

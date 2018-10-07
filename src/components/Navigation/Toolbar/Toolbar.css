@@ -1,0 +1,44 @@
+.custom-navbar {
+    background-color: #7f00ff !important;
+    height: 75px;
+    text-transform: uppercase;
+    box-shadow: 1px 1px 10px #747474
+}
+
+#navbarBasicExample {
+    margin-left: 10%;
+}
+
+.navbar-brand {
+    margin-left: 10%;
+}
+
+
+.custom-navbar .navBar-first-item {
+    background-color: transparent !important;
+    color: rgba(255, 255, 255, 0.8) !important;
+    font-weight: 500;
+    font-size: 0.9em;
+}
+
+.custom-navbar .navBar-first-item:hover {
+    background-color: transparent !important;
+    /* border-top: 2px solid rgba(255, 255, 255, 0.8) !important; */
+    border-bottom: 2px solid rgba(255, 255, 255, 0.8) !important;
+}
+
+.navbar-button-cus {
+    background: white;
+    text-transform: uppercase;
+    font-weight: 600 !important;
+    font-size: .8em !important;
+    color: #2b2b2b ;
+    padding: 20px !important;
+    border-radius: 0 !important;
+}
+
+.navbar-button-cus:hover {
+    color: white !important;
+    background: transparent;
+    border: 1px solid white;    
+}

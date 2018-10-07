@@ -1,0 +1,27 @@
+
+.guest-card-img {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.guest-card-cus {
+    width: 80% !important;
+    margin: 0 auto !important;
+    align-content: center !important;
+    align-items: center !important;
+    justify-content: center !important;
+    align-self: center !important;
+}
+
+.cus-speaker-card-list {
+    padding: 20px;
+}
+
+.speaker-cus-title {
+    font-size: 13px !important;
+    font-weight: 700 !important;
+}
+.speaker-cus-subtitle {
+    font-size: 11px !important;
+    font-weight: 600 !important;
+}
